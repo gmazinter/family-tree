@@ -1,0 +1,34 @@
+{
+	"rachel": {
+		"firstName": "rachel",
+		"lastName": "cohen",
+		"birthday": null,
+		"mother": "dvorah",
+		"father": "leon",
+		"spouse": "noah"
+	},
+	"guy": {
+		"firstName": "guy",
+		"lastName": "mazinter",
+		"birthday": "563580000000",
+		"mother": "hila",
+		"father": "eliezer",
+		"spouse": "bar"
+	},
+	"hila": {
+		"birthday": "-281757600000",
+		"firstName": "hila",
+		"lastName": "mazinter",
+		"mother": "rachel",
+		"father": "noah",
+		"spouse": "eliezer"
+	},
+	"eliezer": {
+		"birthday": "-254282400000",
+		"firstName": "eliezer",
+		"lastName": "mazinter",
+		"mother": "chaya",
+		"father": "hillel",
+		"spouse": "hila"
+	}
+}

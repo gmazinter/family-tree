@@ -1,0 +1,151 @@
+[
+	{
+		"identity": {
+			"firstName": "rachel",
+			"lastName": "cohen",
+			"birthday": null,
+			"mother": "dvorah",
+			"father": "leon",
+			"spouse": "noah"
+		},
+		"descendents": [
+			{
+				"identity": {
+					"birthday": "-281757600000",
+					"firstName": "hila",
+					"lastName": "mazinter",
+					"mother": "rachel",
+					"father": "noah",
+					"spouse": {
+						"birthday": "-254282400000",
+						"firstName": "eliezer",
+						"lastName": "mazinter",
+						"mother": "chaya",
+						"father": "hillel",
+						"spouse": "hila"
+					}
+				},
+				"descendents": [
+					{
+						"identity": {
+							"firstName": "guy",
+							"lastName": "mazinter",
+							"birthday": "563580000000",
+							"mother": "hila",
+							"father": "eliezer",
+							"spouse": {
+								"birthday": "668296800000",
+								"firstName": "bar",
+								"lastName": "elyakim",
+								"mother": "orit",
+								"father": "dani",
+								"spouse": "guy"
+							}
+						}
+					},
+					{
+						"identity": {
+							"firstName": "roni",
+							"lastName": "mazinter",
+							"birthday": "660520800000",
+							"mother": "hila",
+							"father": "eliezer"
+						}
+					},
+					{
+						"identity": {
+							"firstName": "gali",
+							"lastName": "mazinter",
+							"birthday": "858463200000",
+							"mother": "hila",
+							"father": "eliezer"
+						}
+					}
+				]
+			},
+			{
+				"identity": {
+					"birthday": "-281757600000",
+					"firstName": "yaron",
+					"lastName": "cohen",
+					"mother": "rachel",
+					"father": "noah",
+					"spouse": {
+						"birthday": "-254282400000",
+						"firstName": "marcia",
+						"lastName": "cohen",
+						"mother": "duda",
+						"father": "dudu",
+						"spouse": "yaron"
+					}
+				},
+				"descendents": [
+					{
+						"identity": {
+							"firstName": "nil",
+							"lastName": "cohen",
+							"birthday": "563580000000",
+							"mother": "marcia",
+							"father": "yaron"
+						}
+					},
+					{
+						"identity": {
+							"firstName": "sahar",
+							"lastName": "cohen",
+							"birthday": "660520800000",
+							"mother": "marcia",
+							"father": "yaron"
+						}
+					}
+				]
+			},
+			{
+				"identity": {
+					"birthday": "-281757600000",
+					"firstName": "omer",
+					"lastName": "cohen",
+					"mother": "rachel",
+					"father": "noah",
+					"spouse": {
+						"birthday": "-254282400000",
+						"firstName": "orit",
+						"lastName": "cohen",
+						"mother": "leah",
+						"father": "gad",
+						"spouse": "omer"
+					}
+				},
+				"descendents": [
+					{
+						"identity": {
+							"firstName": "shahar",
+							"lastName": "cohen",
+							"birthday": "563580000000",
+							"mother": "orit",
+							"father": "omer"
+						}
+					},
+					{
+						"identity": {
+							"firstName": "yuval",
+							"lastName": "cohen",
+							"birthday": "660520800000",
+							"mother": "orit",
+							"father": "omer"
+						}
+					},
+					{
+						"identity": {
+							"firstName": "noam",
+							"lastName": "cohen",
+							"birthday": "660520800000",
+							"mother": "orit",
+							"father": "omer"
+						}
+					}
+				]
+			}
+		]
+	}
+]
